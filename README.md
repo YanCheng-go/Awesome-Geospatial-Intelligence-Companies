@@ -99,6 +99,13 @@ This repository contains a curated list of geospatial intelligence, GIS, remote 
 - **[Four Twenty Seven](https://427mt.com/)** – Asset-level climate risk data for finance and insurance.
 - **[Climate X](https://climate-x.com/)** – Climate risk analytics leveraging geospatial modeling.
 - **[Mitigrate](https://www.mitigrate.com/)** – Climate risk platform that helps businesses and infrastructure projects assess and adapt to climate hazards like floods, storms, and heatwaves.
+- **[CoreLogic](https://www.corelogic.com/)** – Property risk data for underwriting and catastrophe modeling.
+- **[CAPE Analytics](https://capeanalytics.com/)** – AI-powered property risk insights from aerial imagery.
+- **[Betterview](https://www.nearmap.com/products/betterview)** – Building condition assessment using AI and imagery.
+- **[Arturo](https://www.arturo.ai/)** – Property analytics using aerial and satellite imagery.
+- **[ZestyAI](https://www.zesty.ai/)** – Wildfire and climate risk modeling for property insurance.
+- **[Kettle](https://ourkettle.com/)** – AI-based wildfire risk analytics for reinsurers.
+- **[Geosite](https://geosite.io/)** – Geospatial data fusion for insurance operations.
 
 ---
 
@@ -107,6 +114,9 @@ This repository contains a curated list of geospatial intelligence, GIS, remote 
 - **[WattTime](https://www.watttime.org/)** – Provides grid emissions data and automation tools to reduce carbon footprints.
 - **[Carbon Tracker](https://carbontracker.org/)** – Independent think tank using geospatial and financial analysis to track fossil fuel risks.
 - **[Open Climate Fix](https://openclimatefix.org/)** – AI-based solar generation forecasting and grid optimization.
+- **[Aurora Solar](https://www.aurorasolar.com/)** – Solar energy planning.
+- **[Neara](https://neara.com/)** – Digital twin modeling for grid infrastructure.
+- **[Orbital Sidekick](https://orbitalsidekick.com/)** – Hyperspectral pipeline and energy monitoring.
   
 ---
 
