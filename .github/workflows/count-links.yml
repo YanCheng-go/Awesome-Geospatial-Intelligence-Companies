@@ -5,6 +5,9 @@ on:
     branches: [main]
   workflow_dispatch:
 
+permissions:
+  contents: write   # <-- THIS IS IMPORTANT
+
 jobs:
   count-links:
     runs-on: ubuntu-latest
