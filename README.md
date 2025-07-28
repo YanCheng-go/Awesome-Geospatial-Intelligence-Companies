@@ -65,6 +65,7 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[Satellogic](https://satellogic.com/)** – Affordable high-frequency satellite imagery.
 - **[Spire](https://spire.com/)** – Satellite data for weather, maritime, and aviation.
 - **[SkyFi](https://skyfi.com/)** – Affordable on-demand satellite imagery.
+- **[Satellite Vu](https://www.satellitevu.com/)** – Thermal infrared imaging for energy efficiency and climate applications.
 
 ---
 
@@ -135,6 +136,7 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[ZestyAI](https://www.zesty.ai/)** – Wildfire and climate risk modeling for property insurance.
 - **[Kettle Insurance](https://ourkettle.com/)** – AI-based wildfire risk analytics for reinsurers.
 - **[Geosite](https://geosite.io/)** – Geospatial data fusion for insurance operations (now part of Descartes Labs).
+- **[Riskthinking.AI](https://www.riskthinking.ai/)** – Climate risk platform for finance and asset-level risk scoring.
 
 ---
 
@@ -169,6 +171,8 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[CrowdAI](https://www.crowdai.com/)** – AI-driven imagery analytics for agriculture and supply chains.
 - **[Resilinc](https://resilinc.ai/)** – Supply chain risk and geospatial mapping (not purely geo but highly relevant).
 - **[World Resources Institute (WRI)](https://www.wri.org/)** – Provides open geospatial data platforms like Global Forest Watch and Resource Watch, supporting climate, forest, and supply chain monitoring.
+- **[Earth Blox](https://www.earthblox.io/)** – No-code geospatial analysis platform (especially for ESG and agriculture).
+- **[Climavision](https://climavision.com/)** – Combines proprietary radar with satellite data for weather intelligence.
 
 ### **7.4 Real Estate & Location Intelligence**
 - **[Cherre](https://cherre.com/)** – Real estate data integration and analytics.
@@ -209,7 +213,9 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[Atlist](https://www.atlist.com/)** – Custom map-building platform for websites and businesses.  
 - **[Proxi](https://www.proxi.co/)** – Interactive and shareable map creation tools.  
 - **[Felt](https://felt.com/)** – Collaborative mapping tool with real-time editing.  
-- **[Mapillary](https://www.mapillary.com/)** – Crowdsourced street-level imagery for mapping and navigation.  
+- **[Mapillary](https://www.mapillary.com/)** – Crowdsourced street-level imagery for mapping and navigation.
+- **[Kepler.gl](https://kepler.gl/)** – Open-source geospatial visualization library by Uber.
+- **[Deck.gl](https://deck.gl/)** – High-performance WebGL-powered geospatial visualization framework.
 
 ### **8.2 3D Mapping & Digital Twins**
 - **[Cesium](https://cesium.com/)** – Open platform for 3D geospatial visualization.  
