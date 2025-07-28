@@ -1,5 +1,5 @@
 # Awesome-Geospatial-Intelligence-Companies
-This repository contains a curated list of **geospatial intelligence, GIS, remote sensing, mapping, transportation, and climate risk companies** that leverage geospatial data, remote sensing, and AI/ML technologies.
+This repository contains a curated list of geospatial intelligence, GIS, remote sensing, mapping, transportation, energy, and climate risk companies that leverage geospatial data, remote sensing, and AI/ML technologies.
 
 ---
 
@@ -26,6 +26,8 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[BlackSky](https://www.blacksky.com/)** – Delivers real-time geospatial intelligence from satellites.
 - **[ICEYE](https://www.iceye.com/)** – Operates a SAR satellite constellation for all-weather, day/night Earth observation.
 - **[Hydrosat](https://hydrosat.com/)** – Provides thermal infrared satellite imagery for agriculture, climate, and water stress analytics.
+- SkyWatch – Satellite imagery marketplace and API for developers.
+- UP42 – Geospatial data marketplace with analytics pipelines.
 
 ---
 
@@ -79,7 +81,8 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[INRIX](https://inrix.com/)** – Real-time traffic and mobility intelligence.  
 - **[Iteris](https://www.iteris.com/)** – Smart mobility infrastructure and analytics.  
 - **[Moovit](https://moovit.com/)** – Public transit and urban mobility navigation.  
-- **[Kongsberg Geospatial](https://kongsberggeospatial.com/)** – Real-time geospatial systems for navigation.  
+- **[Kongsberg Geospatial](https://kongsberggeospatial.com/)** – Real-time geospatial systems for navigation.
+- **[ooono](https://ooono.com/)** – Danish company providing traffic alarm devices and apps for real-time speed camera, traffic, and hazard alerts.
 
 ---
 
@@ -94,11 +97,20 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[Tomorrow.io](https://www.tomorrow.io/)** – Weather and climate intelligence with geospatial analytics.  
 - **[Terrafuse AI](https://www.terrafuseai.com/)** – Wildfire risk prediction using AI and satellite data.  
 - **[Four Twenty Seven](https://427mt.com/)** – Asset-level climate risk data for finance and insurance.
-- **[Climate X](https://climate-x.com/)** – Climate risk analytics leveraging geospatial modeling.  
+- **[Climate X](https://climate-x.com/)** – Climate risk analytics leveraging geospatial modeling.
+- **[Mitigrate](https://www.mitigrate.com/)** – Climate risk platform that helps businesses and infrastructure projects assess and adapt to climate hazards like floods, storms, and heatwaves.
 
 ---
 
-## **10. Mapping & Visualization Services**
+## **10. Energy & Carbon Intelligence Platforms**
+- **[Electricity Maps](https://www.electricitymaps.com/)** – Real-time platform that visualizes the carbon intensity and energy mix of electricity consumption globally, enabling low-carbon decision-making.
+- **[WattTime](https://www.watttime.org/)** – Provides grid emissions data and automation tools to reduce carbon footprints.
+- **[Carbon Tracker](https://carbontracker.org/)** – Independent think tank using geospatial and financial analysis to track fossil fuel risks.
+- **[Open Climate Fix](https://openclimatefix.org/) – AI-based solar generation forecasting and grid optimization.
+  
+---
+
+## **11. Mapping & Visualization Services**
 - **[Atlist](https://www.atlist.com/)** – Custom map-building platform for websites and businesses.  
 - **[Proxi](https://www.proxi.co/)** – Interactive and shareable map creation tools.  
 - **[Felt](https://felt.com/)** – Collaborative mapping tool with real-time editing.  
@@ -106,17 +118,17 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 
 ---
 
-## **11. 3D Mapping**
+## **12. 3D Mapping**
 - **[Cesium](https://cesium.com/)** – Open platform for 3D geospatial visualization.  
 - **[blackshark.ai](https://blackshark.ai/)** – AI-based 3D mapping from satellite imagery.  
 - **[KnoGeo Technologies](https://knogeo.com/)** – 3D mapping and geospatial visualization services.  
 
 ---
 
-## **12. Indoor Mapping**
+## **13. Indoor Mapping**
 - **[Pointr](https://www.pointr.tech/)** – Indoor positioning and wayfinding solutions.  
 - **[Mapsted](https://mapsted.com/)** – Indoor navigation and mapping services.  
-- **[NextBillion.ai](https://nextbillion.ai/)** – Custom mapping, routing, and mobility platforms.  
+- **[NextBillion.ai](https://nextbillion.ai/)** – Custom mapping, routing, and mobility platforms.
 
 ---
 
