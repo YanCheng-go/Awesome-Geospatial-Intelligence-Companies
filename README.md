@@ -23,7 +23,9 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[Planet Labs](https://www.planet.com/)** – Specializes in daily, high-resolution satellite imagery.  
 - **[Maxar Technologies](https://www.maxar.com/)** – Provides WorldView and GeoEye satellite imagery.  
 - **[Airbus Defence and Space](https://www.intelligence-airbusds.com/)** – Offers SPOT and Pleiades satellite imagery.  
-- **[BlackSky](https://www.blacksky.com/)** – Delivers real-time geospatial intelligence from satellites.  
+- **[BlackSky](https://www.blacksky.com/)** – Delivers real-time geospatial intelligence from satellites.
+- **[ICEYE](https://www.iceye.com/)** – Operates a SAR satellite constellation for all-weather, day/night Earth observation.
+- **[Hydrosat](https://hydrosat.com/)** – Provides thermal infrared satellite imagery for agriculture, climate, and water stress analytics.
 
 ---
 
