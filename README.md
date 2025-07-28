@@ -139,7 +139,7 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[One Concern](https://www.oneconcern.com/)** – AI-driven resilience and disaster risk assessment.  
 - **[KatRisk](https://www.katrisk.com/)** – Global flood and catastrophe modeling.  
 - **[Tomorrow.io](https://www.tomorrow.io/)** – Weather and climate intelligence with geospatial analytics.  
-- **[Terrafuse AI](https://www.terrafuseai.com/)** – Wildfire risk prediction using AI and satellite data.  
+- **[Terrafuse AI](https://www.terrafuse-ai.com/)** – Wildfire risk prediction using AI and satellite data.  
 - **[Four Twenty Seven](https://427mt.com/)** – Asset-level climate risk data for finance and insurance.
 - **[Climate X](https://climate-x.com/)** – Climate risk analytics leveraging geospatial modeling.
 - **[Mitigrate](https://www.mitigrate.com/)** – Climate risk platform that helps businesses and infrastructure projects assess and adapt to climate hazards like floods, storms, and heatwaves.
