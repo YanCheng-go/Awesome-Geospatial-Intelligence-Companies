@@ -281,8 +281,3 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - Report any outdated links or missing categories.
 
 ---
-
-## **Tags**
-`#GIS` `#Geospatial` `#Mapping` `#ClimateRisk` `#GeoAI` `#Transportation` `#RemoteSensing` `#EarthObservation`
-
----
