@@ -19,7 +19,7 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 
 ---
 
-## **3. Remote Sensing & Satellite Data Companies**
+## **3. Major Remote Sensing & Satellite Data Companies**
 - **[Planet Labs](https://www.planet.com/)** – Specializes in daily, high-resolution satellite imagery.  
 - **[Maxar Technologies](https://www.maxar.com/)** – Provides WorldView and GeoEye satellite imagery.  
 - **[Airbus Defence and Space](https://www.intelligence-airbusds.com/)** – Offers SPOT and Pleiades satellite imagery.  
