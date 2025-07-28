@@ -66,7 +66,21 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[Spire](https://spire.com/)** – Satellite data for weather, maritime, and aviation.
 - **[SkyFi](https://skyfi.com/)** – Affordable on-demand satellite imagery.
 - **[Satellite Vu](https://www.satellitevu.com/)** – Thermal infrared imaging for energy efficiency and climate applications.
-
+### 2.1 Drone Applications & Software
+- **[Pix4D](https://www.pix4d.com/)** – Leading photogrammetry software for mapping, 3D modeling, and agriculture.
+- **[Skydio](https://www.skydio.com/)** – Autonomous drone technology and AI-driven mapping solutions.
+- **[Parrot](https://www.parrot.com/)** – Drones with integrated mapping and analytics software for agriculture and construction.
+- **[Propeller Aero](https://www.propelleraero.com/)** – Drone mapping and analytics platform for construction and mining.
+- **[senseFly](https://ageagle.com/)** – Fixed-wing drone solutions with photogrammetry and surveying applications.
+- **[Airware (Delair acquired)](https://delair.aero/)** – Drone analytics platform for construction, mining, and insurance.
+- **[Skycatch](https://skycatch.com/)** – High-precision drone data platform for 3D mapping and construction sites.
+- **[DroneHarmony](https://www.droneharmony.com/)** – Automated flight planning and 3D modeling for industrial inspections.
+- **[DroneDeploy](https://www.dronedeploy.com/)** – Reality‑capture platform converting drone and ground imagery into 2D/3D maps, models, and analytics for construction, agriculture, mining, and utilities.
+- **[AirMap](https://www.airmap.com/)** – Drone airspace intelligence and UTM platform for safe, compliant flight operations.
+- **[OpenDroneMap](https://www.opendronemap.org/)** – Open-source toolkit (WebODM/NodeODM/CloudODM) for mapping and 3D reconstruction from aerial imagery.
+- **[Dronelink](https://www.dronelink.com/)** – Cross-platform mission planning and automated flight control software for mapping, inspections, and photogrammetry with DJI, Parrot, and Autel drones.
+- **[Agisoft Metashape](https://www.agisoft.com/)** – Professional photogrammetry software for processing aerial imagery into orthomosaics, 3D models, and point clouds.
+  
 ---
 
 ## **3. Cloud & Location Intelligence**
@@ -104,14 +118,14 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 ## **5. Emerging & Specialized GeoAI Companies**
 - **[Development Seed](https://developmentseed.org/)** – Open-source geospatial AI and data pipelines.  
 - **[Wherobots](https://wherobots.com/)** – Cloud-native geospatial AI and analytics solutions.  
-- **[FlyPix AI](https://flypix.ai/)** – Aerial imagery analytics and AI-powered geospatial solutions.  
-- **[Satelligence](https://satelligence.com/)** – Supply-chain monitoring and deforestation analytics.  
+- **[FlyPix AI](https://flypix.ai/)** – Aerial imagery analytics and AI-powered geospatial solutions.    
 - **[Sparkgeo](https://sparkgeo.com/)** – Geospatial data engineering and consultancy.  
 - **[Unearth AI](https://lnkd.in/gMm7zVG3)** – AI-powered geospatial insights platform.  
 - **[textomap](https://www.textomap.com/)** – Creates maps from text descriptions using AI.  
 - **[OSM-GPT](https://lnkd.in/gzce_Pmk)** – Integrates OpenStreetMap data with AI-based queries.  
 - **[MapsGPT](https://www.mapsgpt.com/)** – Conversational AI for geospatial map creation.
 - **[SeerAI](https://www.seer.ai/)** – AI-powered geospatial intelligence and data fusion platform, with deep integration into Esri’s ArcGIS ecosystem.
+- **[SpaceKnow](https://spaceknow.com/)** – Satellite data analytics APIs for economic and industrial insights, leveraging AI and machine learning to monitor global economic activity, infrastructure, and supply chains.
 
 ---
 
@@ -182,6 +196,8 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[Climavision](https://climavision.com/)** – Combines proprietary radar with satellite data for weather intelligence.
 - **[ClimateAi](https://climate.ai/)** – Climate forecasting for agriculture.
 - **[Acclym (formerly Agritask)](https://www.acclym.com/)** – AI-driven crop-supply intelligence for yield, sustainability, and ESG, spanning 6 M+ hectares in 39 countries.
+- **[Satelligence](https://satelligence.com/)** – Supply-chain monitoring and deforestation analytics.
+- **[sourcemap](https://www.sourcemap.com/)** – Supply chain transparency with geospatial data.
 
 ### **7.4 Real Estate & Location Intelligence**
 - **[Cherre](https://cherre.com/)** – Real estate data integration and analytics.
