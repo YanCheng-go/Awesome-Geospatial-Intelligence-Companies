@@ -148,6 +148,7 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[BlueRisk](https://blueriskintel.com/)** – Water strategy and data consultancy providing predictive water risk assessment and monitoring across industrial, agricultural, and infrastructure sectors.
 - **[XDI (Cross Dependency Initiative](https://xdi.systems/))** – Infrastructure and climate risk analytics.
 - **[First Street Foundation](https://firststreet.org/)** – Climate risk scores for real estate (flood, wildfire, heat).
+- **[Floodbase](https://www.floodbase.com/)** - Floodbase provides AI-powered, satellite-based flood mapping and parametric flood insurance solutions for real-time risk management and rapid disaster response.
   
 ### **6.2 Insurance & Property Risk Intelligence**
 - **[CoreLogic](https://www.corelogic.com/)** – Property risk data for underwriting and catastrophe modeling.
