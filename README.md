@@ -33,7 +33,7 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[Google Earth Engine](https://earthengine.google.com/)** – Cloud platform for planetary-scale geospatial analysis.  
 - **[HERE Technologies](https://www.here.com/)** – Location-based services and mapping solutions.  
 - **[TomTom](https://www.tomtom.com/)** – Navigation and real-time traffic services.  
-- **[Microsoft Azure Maps](https://azure.microsoft.com/maps/](https://azure.microsoft.com/en-us/products/azure-maps)** – Location intelligence and mapping APIs on Azure.  
+- **[Microsoft Azure Maps](https://azure.microsoft.com/en-us/products/azure-maps)** – Location intelligence and mapping APIs on Azure.  
 - **[Foursquare](https://foursquare.com/)** – Location data and analytics platform for enterprises.  
 
 ---
