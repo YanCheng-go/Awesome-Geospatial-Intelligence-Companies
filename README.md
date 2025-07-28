@@ -1,5 +1,6 @@
 # Awesome-Geospatial-Intelligence-Companies
 This repository contains a curated list of **geospatial intelligence, GIS, remote sensing, mapping, transportation, energy, and climate risk companies** that leverage geospatial data, remote sensing, and AI/ML technologies.
+
 ![Check Links](https://github.com/YanCheng-go/Awesome-Geospatial-Intelligence-Companies/actions/workflows/action.yml/badge.svg)
 ![Count](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/YanCheng-go/Awesome-Geospatial-Intelligence-Companies/main/badges/links.json)
 
