@@ -1,0 +1,32 @@
+name: Count Links in README
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  count-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Count links in README.md
+        id: count_links
+        run: |
+          count=$(grep -o 'http[s]*://[^)]*' README.md | wc -l)
+          echo "link_count=$count" >> $GITHUB_ENV
+
+      - name: Create badge JSON
+        run: |
+          mkdir -p badges
+          echo "{\"schemaVersion\": 1, \"label\": \"links\", \"message\": \"$link_count\", \"color\": \"blue\"}" > badges/links.json
+
+      - name: Commit badge file
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add badges/links.json
+          git commit -m "Update links badge" || echo "No changes to commit"
+          git push
