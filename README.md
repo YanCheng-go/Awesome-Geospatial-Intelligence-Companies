@@ -95,6 +95,10 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[CH2M (Jacobs)](https://www.jacobs.com/)** – Infrastructure and GIS consulting.
 - **[ERM](https://www.erm.com/)** – Environmental resources management with geospatial data services.
 - **[CGI](https://www.cgi.com/en/technologies/geospatial-services)** – Global IT consultancy offering end-to-end GIS solutions, Esri integrations, EO data processing, and cloud geospatial platforms like GeoData360 for public sector, defense, and utilities.
+- **[RMSI](https://www.rmsi.com/)** – GIS and geospatial technology consultancy specializing in mapping, analytics, and infrastructure for utilities, telecom, and agriculture.
+- **[Exprodat](https://www.exprodat.com/)** – Esri Gold Partner focused on GIS solutions for the oil & gas sector.
+- **[GeoCGI](https://geocgi.com/)** – Esri Gold Partner delivering GIS implementation, data integration, and geospatial support for defense and utilities.
+- **[East View Geospatial](https://geospatial.com/)** – Data and mapping services provider, offering global geospatial datasets and ArcGIS-ready content.
 ---
 
 ## **5. Emerging & Specialized GeoAI Companies**
