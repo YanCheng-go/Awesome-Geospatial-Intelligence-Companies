@@ -1,0 +1,14 @@
+name: Markdown Link Check
+
+on: push
+
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    steps:
+    - name: markdown-link-check-action
+      uses: tcort/github-action-markdown-link-check@v1.1.0
+      with:
+        use-quiet-mode: 'no'
+        use-verbose-mode: 'yes'
+        folder-path: ''
