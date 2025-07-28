@@ -26,8 +26,8 @@ This repository contains a curated list of geospatial intelligence, GIS, remote 
 - **[BlackSky](https://www.blacksky.com/)** – Delivers real-time geospatial intelligence from satellites.
 - **[ICEYE](https://www.iceye.com/)** – Operates a SAR satellite constellation for all-weather, day/night Earth observation.
 - **[Hydrosat](https://hydrosat.com/)** – Provides thermal infrared satellite imagery for agriculture, climate, and water stress analytics.
-- SkyWatch – Satellite imagery marketplace and API for developers.
-- UP42 – Geospatial data marketplace with analytics pipelines.
+- **[SkyWatch](https://www.skywatch.com/)** – Satellite imagery marketplace and API for developers.
+- **[UP42](https://up42.com/)** – Geospatial data marketplace with analytics pipelines.
 
 ---
 
@@ -106,7 +106,7 @@ This repository contains a curated list of geospatial intelligence, GIS, remote 
 - **[Electricity Maps](https://www.electricitymaps.com/)** – Real-time platform that visualizes the carbon intensity and energy mix of electricity consumption globally, enabling low-carbon decision-making.
 - **[WattTime](https://www.watttime.org/)** – Provides grid emissions data and automation tools to reduce carbon footprints.
 - **[Carbon Tracker](https://carbontracker.org/)** – Independent think tank using geospatial and financial analysis to track fossil fuel risks.
-- **[Open Climate Fix](https://openclimatefix.org/) – AI-based solar generation forecasting and grid optimization.
+- **[Open Climate Fix](https://openclimatefix.org/)** – AI-based solar generation forecasting and grid optimization.
   
 ---
 
