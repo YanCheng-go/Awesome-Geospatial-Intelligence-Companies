@@ -243,8 +243,8 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[Septima](https://septima.dk/)** – Danish GIS consultancy focused on open data and web GIS.  
 - **[Scalgo](https://scalgo.com/)** – Terrain analysis, hydrological modeling, and scalable geospatial algorithms.  
 - **[I•GIS A/S](https://www.i-gis.dk/)** – Danish provider of GIS software and services.
-- Geoinfo A/S – Official Esri partner in Denmark.
-- NIRAS – Danish engineering firm with GIS and remote sensing expertise.
+- **[Geoinfo A/S](https://www.geoinfo.dk/)** – Official Esri partner in Denmark.
+- **[NIRAS](https://www.niras.com/)** – Danish engineering firm with GIS and remote sensing expertise.
 
 ---
 
