@@ -125,6 +125,7 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[Mitigrate](https://www.mitigrate.com/)** – Climate risk platform that helps businesses and infrastructure projects assess and adapt to climate hazards like floods, storms, and heatwaves.
 - **[ETH CLIMADA](https://climada.ethz.ch/)** – Open-source climate adaptation and risk modeling platform developed by ETH Zurich.
 - **[Acclimatise](https://www.esgtoday.com/willis-towers-watson-acquires-climate-advisory-and-analytics-provider-acclimatise/)** – Climate risk advisory firm (now part of Willis Towers Watson).
+- **[BlueRisk](https://blueriskintel.com/)** – Water strategy and data consultancy providing predictive water risk assessment and monitoring across industrial, agricultural, and infrastructure sectors.
   
 ### **6.2 Insurance & Property Risk Intelligence**
 - **[CoreLogic](https://www.corelogic.com/)** – Property risk data for underwriting and catastrophe modeling.
@@ -167,6 +168,7 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[Verisk Maplecroft](https://www.maplecroft.com/)** – ESG risk and supply chain intelligence.
 - **[CrowdAI](https://www.crowdai.com/)** – AI-driven imagery analytics for agriculture and supply chains.
 - **[Resilinc](https://resilinc.ai/)** – Supply chain risk and geospatial mapping (not purely geo but highly relevant).
+- **[World Resources Institute (WRI)](https://www.wri.org/)** – Provides open geospatial data platforms like Global Forest Watch and Resource Watch, supporting climate, forest, and supply chain monitoring.
 
 ### **7.4 Real Estate & Location Intelligence**
 - **[Cherre](https://cherre.com/)** – Real estate data integration and analytics.
