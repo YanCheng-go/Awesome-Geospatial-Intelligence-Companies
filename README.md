@@ -61,7 +61,6 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[FlyPix AI](https://flypix.ai/)** – Aerial imagery analytics and AI-powered geospatial solutions.  
 - **[Satelligence](https://satelligence.com/)** – Supply-chain monitoring and deforestation analytics.  
 - **[Sparkgeo](https://sparkgeo.com/)** – Geospatial data engineering and consultancy.  
-- **[Climate X](https://climate-x.com/)** – Climate risk analytics leveraging geospatial modeling.  
 - **[Unearth AI](https://lnkd.in/gMm7zVG3)** – AI-powered geospatial insights platform.  
 - **[textomap](https://www.textomap.com/)** – Creates maps from text descriptions using AI.  
 - **[OSM-GPT](https://lnkd.in/gzce_Pmk)** – Integrates OpenStreetMap data with AI-based queries.  
@@ -94,7 +93,8 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[KatRisk](https://www.katrisk.com/)** – Global flood and catastrophe modeling.  
 - **[Tomorrow.io](https://www.tomorrow.io/)** – Weather and climate intelligence with geospatial analytics.  
 - **[Terrafuse AI](https://www.terrafuseai.com/)** – Wildfire risk prediction using AI and satellite data.  
-- **[Four Twenty Seven](https://427mt.com/)** – Asset-level climate risk data for finance and insurance.  
+- **[Four Twenty Seven](https://427mt.com/)** – Asset-level climate risk data for finance and insurance.
+- **[Climate X](https://climate-x.com/)** – Climate risk analytics leveraging geospatial modeling.  
 
 ---
 
