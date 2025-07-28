@@ -65,7 +65,8 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[Unearth AI](https://lnkd.in/gMm7zVG3)** – AI-powered geospatial insights platform.  
 - **[textomap](https://www.textomap.com/)** – Creates maps from text descriptions using AI.  
 - **[OSM-GPT](https://lnkd.in/gzce_Pmk)** – Integrates OpenStreetMap data with AI-based queries.  
-- **[MapsGPT](https://www.mapsgpt.com/)** – Conversational AI for geospatial map creation.  
+- **[MapsGPT](https://www.mapsgpt.com/)** – Conversational AI for geospatial map creation.
+- **[SeerAI](https://www.seer.ai/)** – AI-powered geospatial intelligence and data fusion platform, with deep integration into Esri’s ArcGIS ecosystem.
 
 ---
 
