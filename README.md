@@ -94,6 +94,7 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[GHD](https://www.ghd.com/)** – Global engineering consultancy with GIS and spatial planning solutions.
 - **[CH2M (Jacobs)](https://www.jacobs.com/)** – Infrastructure and GIS consulting.
 - **[ERM](https://www.erm.com/)** – Environmental resources management with geospatial data services.
+- **[CGI](https://www.cgi.com/en/technologies/geospatial-services)** – Global IT consultancy offering end-to-end GIS solutions, Esri integrations, EO data processing, and cloud geospatial platforms like GeoData360 for public sector, defense, and utilities.
 ---
 
 ## **5. Emerging & Specialized GeoAI Companies**
@@ -127,6 +128,8 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[ETH CLIMADA](https://climada.ethz.ch/)** – Open-source climate adaptation and risk modeling platform developed by ETH Zurich.
 - **[Acclimatise](https://www.esgtoday.com/willis-towers-watson-acquires-climate-advisory-and-analytics-provider-acclimatise/)** – Climate risk advisory firm (now part of Willis Towers Watson).
 - **[BlueRisk](https://blueriskintel.com/)** – Water strategy and data consultancy providing predictive water risk assessment and monitoring across industrial, agricultural, and infrastructure sectors.
+- **[XDI (Cross Dependency Initiative](https://xdi.systems/))** – Infrastructure and climate risk analytics.
+- **[First Street Foundation](https://firststreet.org/)** – Climate risk scores for real estate (flood, wildfire, heat).
   
 ### **6.2 Insurance & Property Risk Intelligence**
 - **[CoreLogic](https://www.corelogic.com/)** – Property risk data for underwriting and catastrophe modeling.
@@ -173,6 +176,8 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[World Resources Institute (WRI)](https://www.wri.org/)** – Provides open geospatial data platforms like Global Forest Watch and Resource Watch, supporting climate, forest, and supply chain monitoring.
 - **[Earth Blox](https://www.earthblox.io/)** – No-code geospatial analysis platform (especially for ESG and agriculture).
 - **[Climavision](https://climavision.com/)** – Combines proprietary radar with satellite data for weather intelligence.
+- **[ClimateAi](https://climate.ai/)** – Climate forecasting for agriculture.
+- **[Acclym (formerly Agritask)](https://www.acclym.com/)** – AI-driven crop-supply intelligence for yield, sustainability, and ESG, spanning 6 M+ hectares in 39 countries.
 
 ### **7.4 Real Estate & Location Intelligence**
 - **[Cherre](https://cherre.com/)** – Real estate data integration and analytics.
@@ -220,7 +225,8 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 ### **8.2 3D Mapping & Digital Twins**
 - **[Cesium](https://cesium.com/)** – Open platform for 3D geospatial visualization.  
 - **[blackshark.ai](https://blackshark.ai/)** – AI-based 3D mapping from satellite imagery.  
-- **[KnoGeo Technologies](https://knogeo.com/)** – 3D mapping and geospatial visualization services.  
+- **[KnoGeo Technologies](https://knogeo.com/)** – 3D mapping and geospatial visualization services.
+- **[Matterport](https://matterport.com/)** – 3D building mapping and digital twin creation.
 
 ### **8.3 Indoor Mapping**
 - **[Pointr](https://www.pointr.tech/)** – Indoor positioning and wayfinding solutions.  
@@ -236,7 +242,9 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[DHI Group](https://www.dhigroup.com/)** – Environmental engineering, remote sensing, and GIS analytics.  
 - **[Septima](https://septima.dk/)** – Danish GIS consultancy focused on open data and web GIS.  
 - **[Scalgo](https://scalgo.com/)** – Terrain analysis, hydrological modeling, and scalable geospatial algorithms.  
-- **[I•GIS A/S](https://www.i-gis.dk/)** – Danish provider of GIS software and services.  
+- **[I•GIS A/S](https://www.i-gis.dk/)** – Danish provider of GIS software and services.
+- Geoinfo A/S – Official Esri partner in Denmark.
+- NIRAS – Danish engineering firm with GIS and remote sensing expertise.
 
 ---
 
