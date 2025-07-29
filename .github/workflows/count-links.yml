@@ -24,7 +24,7 @@ jobs:
       - name: Create badge JSON
         run: |
           mkdir -p badges
-          echo "{\"schemaVersion\": 1, \"label\": \"links\", \"message\": \"$link_count\", \"color\": \"blue\"}" > badges/links.json
+          echo "{\"schemaVersion\": 1, \"label\": \"Count\", \"message\": \"$link_count\", \"color\": \"blue\"}" > badges/Count.json
 
       - name: Commit badge file
         run: |
