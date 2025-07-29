@@ -202,6 +202,7 @@ This repository contains a curated list of **geospatial intelligence, GIS, remot
 - **[Acclym (formerly Agritask)](https://www.acclym.com/)** – AI-driven crop-supply intelligence for yield, sustainability, and ESG, spanning 6 M+ hectares in 39 countries.
 - **[Satelligence](https://satelligence.com/)** – Supply-chain monitoring and deforestation analytics.
 - **[sourcemap](https://www.sourcemap.com/)** – Supply chain transparency with geospatial data.
+- **[Agreena ApS](https://www.agreena.com)** – European agritech-fintech company enabling regenerative agriculture through soil carbon verification via satellite-based MRV, active across ~2 M hectares in 17–20 countries.
 
 ### **7.4 Real Estate & Location Intelligence**
 - **[Cherre](https://cherre.com/)** – Real estate data integration and analytics.
