@@ -12,17 +12,21 @@ A curated list of **geospatial intelligence, GIS, remote sensing, mapping, trans
 3. [Cloud & Location Intelligence](#3-cloud--location-intelligence)
 4. [Consulting & GIS Service Providers](#4-consulting--gis-service-providers)
 5. [Emerging & Specialized GeoAI Companies](#5-emerging--specialized-geoai-companies)
-6. [Climate & Insurance Risk Intelligence](#6-climate--insurance-risk-intelligence)
-7. [Industry-Focused Applications](#7-industry-focused-applications)
-8. [Mapping & Visualization](#8-mapping--visualization)
-9. [Regional GIS Leaders](#9-regional-gis-leaders)
-10. [Disaster Response & Humanitarian Aid](#10-disaster-response--humanitarian-aid)
-11. [How to Contribute](#how-to-contribute)
-12. [Tags](#tags)
-
+6. [Emerging Geospatial Edge AI & On‑Device Processing](#6-emerging-geospatial-edge-ai--ondevice-processing)
+7. [Climate & Insurance Risk Intelligence](#7-climate--insurance-risk-intelligence)
+8. [Industry-Focused Applications](#8-industry-focused-applications)
+9. [Mapping & Visualization](#9-mapping--visualization)
+10. [Regional GIS Leaders](#10-regional-gis-leaders)
+11. [Disaster Response & Humanitarian Aid](#11-disaster-response--humanitarian-aid)
+12. [How to Contribute](#how-to-contribute)
+13. [Tags](#tags)
 ---
 
 ## 1. GIS Platforms
+
+Key providers of **GIS software, tools, and open-source frameworks** for spatial data management, analysis, and visualization.
+
+
 <details>
 <summary>Expand</summary>
 
@@ -48,6 +52,9 @@ A curated list of **geospatial intelligence, GIS, remote sensing, mapping, trans
 ---
 
 ## 2. Remote Sensing & Satellite Data
+
+Companies providing **satellite imagery, SAR data, and drone-based remote sensing solutions** for earth observation and analytics.
+
 <details>
 <summary>Expand</summary>
 
@@ -86,6 +93,9 @@ A curated list of **geospatial intelligence, GIS, remote sensing, mapping, trans
 ---
 
 ## 3. Cloud & Location Intelligence
+
+Cloud platforms and **location intelligence services** for spatial analytics, APIs, and large-scale geospatial computation.
+
 <details>
 <summary>Expand</summary>
 
@@ -102,6 +112,8 @@ A curated list of **geospatial intelligence, GIS, remote sensing, mapping, trans
 ---
 
 ## 4. Consulting & GIS Service Providers
+Consultancies and service providers offering **end-to-end geospatial solutions**, GIS integration, and infrastructure support.
+
 <details>
 <summary>Expand</summary>
 
@@ -130,6 +142,8 @@ A curated list of **geospatial intelligence, GIS, remote sensing, mapping, trans
 ---
 
 ## 5. Emerging & Specialized GeoAI Companies
+This section highlights companies that combine **geospatial data with advanced AI/ML techniques** to deliver innovative analytics, automation, and decision support. These firms are pioneering **GeoAI**, offering solutions for tasks such as **object detection, map generation from text, data fusion, and real-time geospatial intelligence.**
+
 <details>
 <summary>Expand</summary>
 
@@ -147,12 +161,48 @@ A curated list of **geospatial intelligence, GIS, remote sensing, mapping, trans
 </details>
 
 ---
+## 6. Emerging Geospatial Edge AI & On‑Device Processing
+Geospatial Edge AI enables **real-time analytics directly on devices** such as **drones, CubeSats, and IoT sensors**, reducing dependency on cloud processing. It is becoming essential for **defense, disaster response, autonomous navigation, industrial automation, and smart cities.**
 
-## 6. Climate & Insurance Risk Intelligence
+<details>
+<summary>Expand</summary>
+  
+### **6.1 Drone & Satellite Edge AI**
+- **[Dropla](https://www.startus-insights.com/innovators-guide/edge-ai-companies/)** – Sensor fusion and AI on drones for **hazard detection** (e.g., landmines) in remote areas.  
+- **[KP Labs](https://en.wikipedia.org/wiki/KP_Labs)** – Developer of **Antelope & Leopard onboard AI processors** for CubeSats, enabling image analysis in space.  
+- **[Skycatch](https://skycatch.com/)** – Drone automation platform with **EdgeServer** for local aerial data processing.  
+- **[Overwatch Imaging](https://www.overwatchimaging.com/)** – **Real-time onboard vision AI** for ISR and precision mapping missions.  
+- **[Exyn Technologies](https://www.exyn.com/drone-surveying-and-mapping/)** – Autonomous drones with **survey-grade 3D mapping AI** running fully onboard.  
+- **[Edge Autonomy](https://edgeautonomy.io/)** – Long-endurance UAVs with **on-device AI for reconnaissance and ISR**.  
+- **[Reveal Technology](https://www.revealtech.ai/)** – **Tactical edge AI** for generating 3D models and vision analytics in the field.  
+- **[Farsight Vision](https://en.wikipedia.org/wiki/Farsight_Vision)** – UAV-based **on-host geospatial analytics** for conflict and disaster zones.
+
+### **6.2 Edge AI Runtime Platforms**
+- **[Latent AI](https://latentai.com/)** – Offers **LEIP**, a lightweight runtime engine to optimize AI models for drones, robots, and IoT sensors.  
+- **[Blackshark.ai](https://blackshark.ai/)** – Provides **REVEAL™ and REPLIKA™** platforms, capable of deploying AI models at the edge.
+
+### **6.3 Defense-Grade Edge AI**
+- **[Auterion](https://auterion.com/)** – Developer of **Skynode**, a drone AI module with **jam-resistant, autonomous tracking**; recently awarded a $50M contract for military-grade AI drones.  
+- **[Helsing](https://helsing.ai/)** – Builds **AI navigation systems** for drones and aircraft operating in GPS-denied environments.  
+
+### **6.4 Integrated Edge Mapping Workflows**
+- **[Field](https://www.commercialuavnews.com/how-field-provides-value-through-cutting-edge-geospatial-technology-and-partnerships)** – Provides **edge-based data capture and processing** for industrial surveys and remote operations.
+
+### **6.5 IoT & Sensor Edge AI**
+- **[Litmus Automation](https://www.litmus.io/)** – Edge computing for **IoT sensors and industrial equipment**, enabling location-aware analytics.  
+- **[Akenza](https://akenza.io/)** – IoT edge platform providing **real-time location and sensor-based analytics** for smart cities.
+
+</details>
+
+---
+
+## 7. Climate & Insurance Risk Intelligence
+Organizations providing **climate risk modeling, catastrophe prediction, property insurance analytics, and ESG-related geospatial intelligence** to mitigate environmental and financial risks.
+
 <details>
 <summary>Expand</summary>
 
-### **6.1 Climate & Catastrophe Risk Modeling**
+### **7.1 Climate & Catastrophe Risk Modeling**
 - **[Sust Global](https://www.sustglobal.com/)** – Climate risk analytics with geospatial and climate data.  
 - **[Mitiga Solutions](https://mitigasolutions.com/)** – AI-based modeling of climate hazards (wildfires, storms).  
 - **[Fathom](https://www.fathom.global/)** – Flood risk modeling and hazard assessment.  
@@ -172,7 +222,7 @@ A curated list of **geospatial intelligence, GIS, remote sensing, mapping, trans
 - **[First Street Foundation](https://firststreet.org/)** – Climate risk scores for real estate (flood, wildfire, heat).
 - **[Floodbase](https://www.floodbase.com/)** – AI-powered, satellite-based flood mapping and parametric insurance.
 
-### **6.2 Insurance & Property Risk Intelligence**
+### **7.2 Insurance & Property Risk Intelligence**
 - **[CoreLogic](https://www.corelogic.com/)** – Property risk data for underwriting and catastrophe modeling.
 - **[CAPE Analytics](https://capeanalytics.com/)** – AI-powered property risk insights from aerial imagery.
 - **[Betterview by Nearmap](https://www.nearmap.com/products/betterview)** – Building condition assessment using AI and imagery.
@@ -186,11 +236,13 @@ A curated list of **geospatial intelligence, GIS, remote sensing, mapping, trans
 
 ---
 
-## 7. Industry-Focused Applications
+## 8. Industry-Focused Applications
+Companies with tailored geospatial solutions for **specific industries** such as **energy, urban planning, agriculture, supply chain, transportation, and defense** .
+
 <details>
 <summary>Expand</summary>
 
-### **7.1 Energy & Utilities**
+### **8.1 Energy & Utilities**
 - **[Electricity Maps](https://www.electricitymaps.com/)** – Real-time platform that visualizes the carbon intensity and energy mix of electricity consumption globally.
 - **[WattTime](https://www.watttime.org/)** – Provides grid emissions data and automation tools to reduce carbon footprints.
 - **[Carbon Tracker](https://carbontracker.org/)** – Independent think tank using geospatial and financial analysis to track fossil fuel risks.
@@ -200,7 +252,7 @@ A curated list of **geospatial intelligence, GIS, remote sensing, mapping, trans
 - **[Orbital Sidekick](https://orbitalsidekick.com/)** – Hyperspectral pipeline and energy monitoring.
 - **[Fors A/S](https://fors.dk/)** – Danish utility company leveraging geospatial data for water and energy infrastructure.
 
-### **7.2 Urban Planning, Smart Cities & Engineering**
+### **8.2 Urban Planning, Smart Cities & Engineering**
 - **[UrbanFootprint](https://urbanfootprint.com/)** – Urban data platform for planning and resilience.
 - **[Sidewalk Labs](https://www.google.com/earth/about/design/)** – Urban innovation using geospatial data.
 - **[ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview)** – 3D planning workflows.
@@ -211,7 +263,7 @@ A curated list of **geospatial intelligence, GIS, remote sensing, mapping, trans
 - **[Fugro](https://www.fugro.com/)** – Geotechnical and geospatial engineering services.
 - **[WSP Global](https://www.wsp.com/)** – Infrastructure and engineering consultancy with GIS.
 
-### **7.3 Agriculture, Environment & Supply Chain Intelligence**
+### **8.3 Agriculture, Environment & Supply Chain Intelligence**
 - **[Descartes Labs](https://www.descarteslabs.com/)** – AI-driven geospatial analytics for agriculture, commodities, and global supply chains.
 - **[eLEAF](https://eleaf.com/)** – Crop growth and water productivity analytics.
 - **[Satelligence](https://satelligence.com/)** – Deforestation monitoring and supply chain ESG compliance.
@@ -227,13 +279,13 @@ A curated list of **geospatial intelligence, GIS, remote sensing, mapping, trans
 - **[sourcemap](https://www.sourcemap.com/)** – Supply chain transparency with geospatial data.
 - **[Agreena ApS](https://www.agreena.com)** – Soil carbon verification for regenerative agriculture.
 
-### **7.4 Real Estate & Location Intelligence**
+### **8.4 Real Estate & Location Intelligence**
 - **[Cherre](https://cherre.com/)** – Real estate data integration and analytics.
 - **[PlaceIQ](https://www.placeiq.com/)** – Consumer location behavior analytics.
 - **[Reonomy](https://www.reonomy.com/)** – Property intelligence for commercial real estate.
 - **[Placer.ai](https://www.placer.ai/)** – Retail and foot traffic analytics.
 
-### **7.5 Transportation & Mobility**
+### **8.5 Transportation & Mobility**
 - **[Uber](https://www.uber.com/)** – Ride-hailing and urban mobility services.  
 - **[Lyft](https://www.lyft.com/)** – Ride-hailing and shared mobility services.  
 - **[Grab](https://www.grab.com/)** – Super-app with ride-hailing, mapping, and logistics services.  
@@ -248,7 +300,7 @@ A curated list of **geospatial intelligence, GIS, remote sensing, mapping, trans
 - **[TomTom](https://www.tomtom.com/)** – Navigation and real-time traffic services.
 - **[HERE Technologies](https://www.here.com/)** – Location-based services and mapping solutions.
 
-### **7.6 Defense & Security Geospatial Intelligence**
+### **8.6 Defense & Security Geospatial Intelligence**
 - **[Palantir](https://www.palantir.com/)** – Data integration and geospatial analytics for defense.  
 - **[HawkEye 360](https://www.he360.com/)** – RF signal geolocation and space-based intelligence.  
 - **[Preligens](https://www.safran-group.com/companies/safran-ai)** – AI-powered geospatial intelligence.  
@@ -263,11 +315,14 @@ A curated list of **geospatial intelligence, GIS, remote sensing, mapping, trans
 
 ---
 
-## 8. Mapping & Visualization
+## 9. Mapping & Visualization
+Tools and platforms for **geospatial data visualization, interactive maps, 3D modeling, and digital twin creation.**
+
+
 <details>
 <summary>Expand</summary>
 
-### **8.1 General Mapping Tools**
+### **9.1 General Mapping Tools**
 - **[Atlist](https://www.atlist.com/)** – Custom map-building platform for websites and businesses.  
 - **[Proxi](https://www.proxi.co/)** – Interactive and shareable map creation tools.  
 - **[Felt](https://felt.com/)** – Collaborative mapping tool with real-time editing.  
@@ -275,13 +330,13 @@ A curated list of **geospatial intelligence, GIS, remote sensing, mapping, trans
 - **[Kepler.gl](https://kepler.gl/)** – Open-source geospatial visualization library by Uber.  
 - **[Deck.gl](https://deck.gl/)** – High-performance WebGL-powered geospatial visualization.
 
-### **8.2 3D Mapping & Digital Twins**
+### **9.2 3D Mapping & Digital Twins**
 - **[Cesium](https://cesium.com/)** – Open platform for 3D geospatial visualization.  
 - **[blackshark.ai](https://blackshark.ai/)** – AI-based 3D mapping from satellite imagery.  
 - **[KnoGeo Technologies](https://knogeo.com/)** – 3D mapping and visualization services.  
 - **[Matterport](https://matterport.com/)** – 3D building mapping and digital twin creation.
 
-### **8.3 Indoor Mapping**
+### **9.3 Indoor Mapping**
 - **[Pointr](https://www.pointr.tech/)** – Indoor positioning and wayfinding solutions.  
 - **[Mapsted](https://mapsted.com/)** – Indoor navigation and mapping services.  
 - **[NextBillion.ai](https://nextbillion.ai/)** – Custom mapping, routing, and mobility platforms.
@@ -291,7 +346,9 @@ A curated list of **geospatial intelligence, GIS, remote sensing, mapping, trans
 
 ---
 
-## 9. Regional GIS Leaders
+## 10. Regional GIS Leaders
+Regional leaders and **country-specific companies** driving GIS and remote sensing innovation, starting with **Danish & Scandinavian companies.**
+
 <details>
 <summary>Expand</summary>
 
@@ -308,7 +365,9 @@ A curated list of **geospatial intelligence, GIS, remote sensing, mapping, trans
 
 ---
 
-## 10. Disaster Response & Humanitarian Aid
+## 11. Disaster Response & Humanitarian Aid
+Organizations leveraging **geospatial technologies for humanitarian aid, crisis mapping, and disaster response coordination.**
+
 <details>
 <summary>Expand</summary>
 
